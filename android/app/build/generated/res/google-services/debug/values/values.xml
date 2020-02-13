@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">640695683031-v7vdd4ld38b9ojuv7ht3660u2350j84p.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://dalanlk.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">640695683031</string>
+    <string name="google_api_key" translatable="false">AIzaSyAyD4_sC0SNoA3cPcxmXDN08Qo4igDTXVk</string>
+    <string name="google_app_id" translatable="false">1:640695683031:android:417062270eee5e9b9c2d92</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAyD4_sC0SNoA3cPcxmXDN08Qo4igDTXVk</string>
+    <string name="google_storage_bucket" translatable="false">dalanlk.appspot.com</string>
+    <string name="project_id" translatable="false">dalanlk</string>
+</resources>

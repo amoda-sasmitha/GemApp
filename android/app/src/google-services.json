@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "640695683031",
+    "firebase_url": "https://dalanlk.firebaseio.com",
+    "project_id": "dalanlk",
+    "storage_bucket": "dalanlk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640695683031:android:417062270eee5e9b9c2d92",
+        "android_client_info": {
+          "package_name": "com.reactnativestarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640695683031-1od8mrnochig4u9pst3nr5pq6s5qbag3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reactnativestarter",
+            "certificate_hash": "32f5d2e0a6422813e6a607cd435abd624c35cb8b"
+          }
+        },
+        {
+          "client_id": "640695683031-v7vdd4ld38b9ojuv7ht3660u2350j84p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyD4_sC0SNoA3cPcxmXDN08Qo4igDTXVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640695683031-odelv9nuk8j1sag0alch2or8as66mbcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
