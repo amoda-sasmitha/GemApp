@@ -18,7 +18,7 @@
   "dependencies": {
     "@exponent/react-native-action-sheet": "^0.3.0",
     "@react-native-community/async-storage": "^1.7.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "firebase": "^7.6.0",
     "firebase-admin": "^8.8.0",
     "i18n-js": "^3.2.1",
